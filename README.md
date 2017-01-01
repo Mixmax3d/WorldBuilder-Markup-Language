@@ -3,7 +3,7 @@ A Markup Language for the creation of a world in opengl ambient
 
 Featured tags examples
 
-"<PRIM>" colonna_quadrata (file name)
+/<PRIM/> colonna_quadrata (file name)
 
 <LIGHT> -41.46957669 3.843208005 0.9105379271 (light position)
 
