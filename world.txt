@@ -1,0 +1,1666 @@
+<PRIM> colonna_quadrata
+<PRIM> colonna_quadrata_1
+<PRIM> colonna_rotonda
+<PRIM> rosone
+<PRIM> tenda
+<PRIM> plane
+<PRIM> campata
+<PRIM> arcate
+<PRIM> muro
+<PRIM> albero
+<PRIM> finestra
+<PRIM> portone
+<PRIM> muro_1
+<PRIM> lantern
+<PRIM> hebe
+<LIGHT> -41.46957669 3.843208005 0.9105379271
+<LIGHT> -41.46957669 3.843208005 -2.859002111
+<LIGHT> -22.71220336 5.767349083 -1.724406628
+<LIGHT> -3.581113714 5.767349083 -14.35135604
+<LIGHT> 34.86196861 4.310415241 -8.110662131
+<TEXN> AL01aut2
+<TEXN> AL01aut2_NORM
+<TEXN> AL01aut2_SPEC
+<TEXN> AL01brk
+<TEXN> AL01brk_NORM
+<TEXN> AL01brk_SPEC.bmp
+<TEXN> AmbientOcclusion_1024
+<TEXN> AmbientOcclusion_1024_NORM
+<TEXN> AmbientOcclusion_1024_SPEC
+<TEXN> GRYTARN
+<TEXN> GRYTARN_NORM
+<TEXN> GRYTARN_SPEC
+<TEXN> spnza_bricks_a_diff
+<TEXN> spnza_bricks_a_diff_NORM
+<TEXN> spnza_bricks_a_spec
+<TEXN> sponza_arch_ddn
+<TEXN> sponza_arch_diff
+<TEXN> sponza_arch_spec
+<TEXN> sponza_ceiling_a_diff
+<TEXN> sponza_ceiling_a_diff_NORM
+<TEXN> sponza_ceiling_a_spec
+<TEXN> sponza_column_a_ddn
+<TEXN> sponza_column_a_diff
+<TEXN> sponza_column_a_spec
+<TEXN> sponza_column_b_ddn
+<TEXN> sponza_column_b_diff
+<TEXN> sponza_column_b_spec
+<TEXN> sponza_details_diff
+<TEXN> sponza_details_diff_NORM
+<TEXN> sponza_details_spec
+<TEXN> sponza_fabric_blue_diff_NORM
+<TEXN> sponza_fabric_diff
+<TEXN> sponza_fabric_spec
+<TEXN> sponza_floor_a_diff
+<TEXN> sponza_floor_a_diff_NORM
+<TEXN> sponza_floor_a_spec
+<M> colonna_rotonda_Mesh1
+<T> -12.79753762 0 0
+<R> 0 0 0
+<TEX_C> sponza_column_b_diff
+<TEX_S> sponza_column_b_spec
+<TEX_B> sponza_column_b_ddn
+<TEX_R> 
+<M> muro_1_Mesh50
+<T> 18.94391146 11.82212265 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh49
+<T> 12.54748764 11.8221217 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh48
+<T> 6.151063825 11.82212074 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh47
+<T> -0.2453599914 11.82211979 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh46
+<T> -6.641783808 11.82211884 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh45
+<T> -13.03820762 11.82211788 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh44
+<T> 25.33950745 11.82211693 -16.00294119
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh43
+<T> -19.43463144 11.82211693 -16.00025003
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh18
+<T> -16.23724736 6.175571997 -16.00294119
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh29
+<T> 28.47210677 11.82211598 -12.76448651
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> lantern_Mesh1
+<T> -41.46957669 4.01336681 -0.7498689155
+<R> 0 90 0
+<TEX_C> GRYTARN
+<TEX_S> GRYTARN_SPEC
+<TEX_B> GRYTARN_NORM
+<TEX_R> 
+<M> plane_Mesh1
+<T> 0 0 0
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh1
+<T> -22.56249535 13.07499871 0.3728981448
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> colonna_quadrata_Mesh1
+<T> -22.15973404 0 22.64482735
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> muro_Mesh1
+<T> 22.14129554 6.175571997 22.37560171
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh1
+<T> -19.63707774 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> albero_Mesh1
+<T> 15.33994918 0 4.707260803
+<R> 0 0 0
+<TEX_C> AL01brk
+<TEX_S> AL01brk_SPEC
+<TEX_B> AL01brk_NORM
+<TEX_R> 
+<M> finestra_Mesh1
+<T> -41.17551009 23.18466679 37.28033587
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> portone_Mesh1
+<T> -41.11030605 0 -2.591970157
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> tenda_Mesh1
+<T> -41.05229449 4.412327188 -2.872656436
+<R> 0 90 0
+<TEX_C> sponza_fabric_diff
+<TEX_S> sponza_fabric_spec
+<TEX_B> sponza_fabric_blue_diff_NORM
+<TEX_R> 
+<M> plane_Mesh2
+<T> 0 0 -27.06858158
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh3
+<T> 0 0 27.06858158
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh4
+<T> -27.55792904 0 27.06858158
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh5
+<T> -27.55792904 0 0
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh6
+<T> -27.55792904 0 -27.06858158
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh7
+<T> 27.55792904 0 27.06858158
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh8
+<T> 27.55792904 0 0
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh9
+<T> 27.55792904 0 -27.06858158
+<R> 0 0 0
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh2
+<T> -13.21427196 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh3
+<T> -6.79146617 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh4
+<T> -0.3686603838 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh5
+<T> 6.054145402 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh6
+<T> 12.47695119 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh7
+<T> 18.89975697 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh8
+<T> 25.32256276 3.882990061 -19.18326884
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> arcate_Mesh2
+<T> -16.39553574 5.536615963 -16.51694255
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh3
+<T> -3.512624057 5.536618943 -16.51694255
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh4
+<T> 9.370287625 5.536618943 -16.51694255
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh5
+<T> 22.25319931 5.536618943 -16.51694255
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh6
+<T> 22.25319931 5.536618943 -22.11277186
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh7
+<T> 9.370287625 5.536618943 -22.11277186
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh8
+<T> -3.512624057 5.536618943 -22.11277186
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh9
+<T> -16.39553574 5.536615963 -22.11277186
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> campata_Mesh25
+<T> 32.3784685 3.885561048 -6.235600382
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh26
+<T> 32.3784685 3.885561048 0.1872054041
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh27
+<T> 32.3784685 3.885561048 6.61001119
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh28
+<T> 32.3784685 3.885561048 13.03281698
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh29
+<T> 32.3784685 3.885561048 19.45562276
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh31
+<T> 32.3784685 3.885561048 -12.65840617
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> arcate_Mesh12
+<T> 35.4624078 5.539186949 -9.724735196
+<R> 0 270 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh13
+<T> 28.9729288 5.539186949 -9.724735196
+<R> 0 90 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh14
+<T> 28.97340778 5.541751976 3.158176486
+<R> 0 90 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh15
+<T> 28.97340778 5.541751976 15.89830739
+<R> 0 90 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh16
+<T> 35.46288678 5.536621923 3.158176486
+<R> 0 270 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh17
+<T> 35.46336577 5.534056897 16.04108817
+<R> 0 270 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> campata_Mesh39
+<T> -19.6222257 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh40
+<T> -13.19941991 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh41
+<T> -6.776614123 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh42
+<T> -0.3538083368 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh43
+<T> 6.068997449 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh44
+<T> 12.49180324 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh45
+<T> 18.91460902 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh46
+<T> 25.33741481 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> arcate_Mesh24
+<T> -16.38068369 5.544314022 28.17197409
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh25
+<T> -3.49777201 5.544317002 28.17197409
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh26
+<T> 9.385139672 5.544317002 28.17197409
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh27
+<T> 22.26805135 5.544317002 28.17197409
+<R> 0 180 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh28
+<T> 22.26805135 5.544317002 22.57614477
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh29
+<T> 9.385139672 5.544317002 22.57614477
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh30
+<T> -3.49777201 5.544317002 22.57614477
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh31
+<T> -16.38068369 5.544314022 22.57614477
+<R> 0 0 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> campata_Mesh47
+<T> -19.6222257 3.89068812 25.50564779
+<R> 0 0 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh48
+<T> -26.0515673 3.898383199 -6.28933296
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh49
+<T> -26.0515673 3.898383199 0.1334728261
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh50
+<T> -26.0515673 3.898383199 6.556278612
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh51
+<T> -26.0515673 3.898383199 12.9790844
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh52
+<T> -26.0515673 3.898383199 19.40189018
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> campata_Mesh53
+<T> -26.0515673 3.898383199 -12.71213875
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> arcate_Mesh32
+<T> -22.967628 5.552009101 -9.778467774
+<R> 0 270 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh33
+<T> -29.45710701 5.552009101 -9.778467774
+<R> 0 90 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh34
+<T> -29.45662802 5.554574127 3.104443908
+<R> 0 90 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh35
+<T> -29.45662802 5.554574127 15.84457481
+<R> 0 90 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh36
+<T> -22.96714902 5.549444074 3.104443908
+<R> 0 270 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> arcate_Mesh37
+<T> -22.96667003 5.546879048 15.98735559
+<R> 0 270 0
+<TEX_C> sponza_arch_diff
+<TEX_S> sponza_arch_spec
+<TEX_B> sponza_arch_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh2
+<T> -23.12559976 0 22.39657484
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh3
+<T> -23.12559976 0 16.05766875
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh4
+<T> -23.12559976 0 9.57135539
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh5
+<T> -23.12559976 0 3.146439528
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh6
+<T> -23.12559976 0 -3.278476334
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh7
+<T> -23.12559976 0 -9.742805127
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh8
+<T> -29.36475148 0 -9.742805127
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh9
+<T> -29.36475148 0 16.05766875
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh10
+<T> -29.36475148 0 9.57135539
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh11
+<T> -29.36475148 0 3.146439528
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh12
+<T> -29.36475148 0 -3.278476334
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh13
+<T> 35.34604287 0 15.96909953
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh14
+<T> 35.34604287 0 9.48278617
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh15
+<T> 35.34604287 0 3.057870308
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh16
+<T> 35.34604287 0 -3.367045553
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh17
+<T> 29.10689116 0 -9.831374347
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh18
+<T> 29.10689116 0 15.96909953
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh19
+<T> 29.10689116 0 9.48278617
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh20
+<T> 29.10689116 0 3.057870308
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh21
+<T> 29.10689116 0 -3.367045553
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh22
+<T> 35.34604287 0 -9.831374347
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh23
+<T> 22.19612997 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh24
+<T> 15.79538837 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh25
+<T> 9.349948124 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh26
+<T> 2.90450788 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh27
+<T> -3.540932365 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh28
+<T> -9.98637261 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh29
+<T> -16.43181285 0 -16.56707874
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh30
+<T> -16.43181285 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh31
+<T> -9.98637261 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh32
+<T> -3.540932365 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh33
+<T> 2.90450788 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh34
+<T> 9.349948124 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh35
+<T> 15.79538837 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh36
+<T> 22.19612997 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh37
+<T> 22.19612997 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh38
+<T> 15.79538837 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh39
+<T> 9.349948124 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh40
+<T> 2.90450788 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh41
+<T> -3.540932365 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh42
+<T> -9.98637261 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh43
+<T> -16.43181285 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh44
+<T> -16.43181285 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh45
+<T> -9.98637261 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh46
+<T> -3.540932365 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh47
+<T> 2.90450788 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh48
+<T> 9.349948124 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh49
+<T> 15.79538837 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh50
+<T> 22.19612997 0 22.70977236
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh51
+<T> -23.12559976 0 -15.88825979
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh52
+<T> -22.5190441 0 -16.60891257
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh53
+<T> 28.41550606 0 -16.59707479
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh54
+<T> 29.00198437 0 -15.80991055
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh55
+<T> 28.46154521 0 22.60835428
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh56
+<T> 29.00198437 0 22.15686353
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> muro_Mesh2
+<T> 9.348447906 6.175571997 22.37560171
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh3
+<T> -3.444399728 6.175571997 22.37560171
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh4
+<T> -16.23724736 6.175571997 22.37560171
+<R> 0 0 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh15
+<T> -22.63367118 6.175571997 15.97917789
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh1
+<T> -22.63284335 11.82211598 12.78365714
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh2
+<T> -22.63284335 11.82211598 6.387233327
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh3
+<T> -22.63284335 11.82211598 -0.009190489705
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh4
+<T> -22.63284335 11.82211598 -6.405614306
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh5
+<T> -22.63284335 11.82211598 -12.80203812
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> colonna_quadrata_Mesh57
+<T> -29.44393797 0 22.39657484
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh58
+<T> -22.687068 0 28.11669351
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh59
+<T> 28.61709566 0 28.20689779
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh60
+<T> 35.34604287 0 22.3329377
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh61
+<T> 35.34604287 0 -15.73518887
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh62
+<T> 28.41938108 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh63
+<T> -22.62484568 0 -22.06420417
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> colonna_quadrata_Mesh64
+<T> -29.36475148 0 -15.91199014
+<R> 0 0 0
+<TEX_C> sponza_column_a_diff
+<TEX_S> sponza_column_a_spec
+<TEX_B> sponza_column_a_ddn
+<TEX_R> 
+<M> rosone_Mesh2
+<T> -22.56249535 13.07499871 4.139680698
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh3
+<T> -22.56249535 13.07499871 7.906463252
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh4
+<T> -22.56249535 13.07499871 11.67324581
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh5
+<T> -22.56249535 13.07499871 15.44002836
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh6
+<T> -22.56249535 13.07499871 19.20681091
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh7
+<T> -22.56249535 13.07499871 -3.365852785
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh8
+<T> -22.56249535 13.07499871 -7.104603714
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> rosone_Mesh9
+<T> -22.56249535 13.07499871 -10.84335464
+<R> 0 90 0
+<TEX_C> sponza_ceiling_a_diff
+<TEX_S> sponza_ceiling_a_spec
+<TEX_B> sponza_ceiling_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh10
+<T> -41.33689356 13.52609135 -27.06858158
+<R> 0 0 -90
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh11
+<T> -41.33689356 13.52609135 0
+<R> 0 0 -90
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh12
+<T> -41.33689356 13.52609135 27.06858158
+<R> 0 0 -90
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh2
+<T> -41.17551009 23.18466679 29.9659373
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh3
+<T> -41.17551009 23.18466679 22.65153874
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh4
+<T> -41.17551009 23.18466679 15.33714017
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh5
+<T> -41.17551009 23.18466679 8.022741599
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh6
+<T> -41.17551009 23.18466679 0.7083430303
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh7
+<T> -41.17551009 23.18466679 -6.606055538
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh8
+<T> -41.17551009 23.18466679 -13.92045411
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh9
+<T> -41.17551009 23.18466679 -21.23485267
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh10
+<T> -41.17551009 23.18466679 -28.54925124
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh11
+<T> -41.17551009 23.18466679 -35.86364981
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh12
+<T> -41.17551009 14.73451863 37.28033587
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh13
+<T> -41.17551009 14.73451863 29.9659373
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh14
+<T> -41.17551009 14.73451863 22.65153874
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh15
+<T> -41.17551009 14.73451863 15.33714017
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh16
+<T> -41.17551009 14.73451863 8.022741599
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh17
+<T> -41.17551009 14.73451863 0.7083430303
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh18
+<T> -41.17551009 14.73451863 -6.606055538
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh19
+<T> -41.17551009 14.73451863 -13.92045411
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh20
+<T> -41.17551009 14.73451863 -21.23485267
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh21
+<T> -41.17551009 14.73451863 -28.54925124
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh22
+<T> -41.17551009 14.73451863 -35.86364981
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh23
+<T> -41.17551009 7.652395436 37.28033587
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh24
+<T> -41.17551009 7.652395436 29.9659373
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh25
+<T> -41.17551009 7.652395436 22.65153874
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh26
+<T> -41.17551009 7.652395436 15.33714017
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh27
+<T> -41.17551009 7.652395436 8.022741599
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh28
+<T> -41.17551009 7.652395436 0.7083430303
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh29
+<T> -41.17551009 7.652395436 -6.606055538
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh30
+<T> -41.17551009 7.652395436 -13.92045411
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh31
+<T> -41.17551009 7.652395436 -21.23485267
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh32
+<T> -41.17551009 7.652395436 -28.54925124
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> finestra_Mesh33
+<T> -41.17551009 7.652395436 -35.86364981
+<R> 0 90 0
+<TEX_C> sponza_details_diff
+<TEX_S> sponza_details_spec
+<TEX_B> sponza_details_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh28
+<T> -22.63367118 11.82211598 19.1773898
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> lantern_Mesh2
+<T> -41.46957669 4.01336681 -4.519408954
+<R> 0 90 0
+<TEX_C> GRYTARN
+<TEX_S> GRYTARN_SPEC
+<TEX_B> GRYTARN_NORM
+<TEX_R> 
+<M> lantern_Mesh3
+<T> -22.71220336 5.937507888 -3.384813471
+<R> 0 90 0
+<TEX_C> GRYTARN
+<TEX_S> GRYTARN_SPEC
+<TEX_B> GRYTARN_NORM
+<TEX_R> 
+<M> lantern_Mesh4
+<T> -3.581113714 5.937507888 -16.01176288
+<R> 0 0 0
+<TEX_C> GRYTARN
+<TEX_S> GRYTARN_SPEC
+<TEX_B> GRYTARN_NORM
+<TEX_R> 
+<M> lantern_Mesh5
+<T> 34.86196861 4.480574046 -9.771068973
+<R> 0 -90 0
+<TEX_C> GRYTARN
+<TEX_S> GRYTARN_SPEC
+<TEX_B> GRYTARN_NORM
+<TEX_R> 
+<M> plane_Mesh16
+<T> -27.88231007 13.55288887 -40.59862326
+<R> 90 -3.180554681e-015 270
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh17
+<T> -0.7985873328 13.55288887 -40.59862326
+<R> 90 -3.180554681e-015 270
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> plane_Mesh18
+<T> 12.75082135 13.80576205 -54.1307032
+<R> 0 0 270
+<TEX_C> sponza_floor_a_diff
+<TEX_S> sponza_floor_a_spec
+<TEX_B> sponza_floor_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh16
+<T> -22.63367118 6.175571997 3.186330261
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh17
+<T> -22.63284335 6.175571997 -9.603826215
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh19
+<T> -3.444399728 6.175571997 -16.00294119
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh20
+<T> 9.348447906 6.175571997 -16.00294119
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh21
+<T> 22.14129554 6.175571997 -16.00294119
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh22
+<T> 28.47210677 6.175571997 -9.5662746
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh23
+<T> 28.47210677 6.175571997 3.226573034
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_Mesh24
+<T> 28.47210677 6.175571997 16.01942067
+<R> 0 90 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh30
+<T> 28.47210677 11.82211693 -6.368062691
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh31
+<T> 28.47210677 11.82211693 0.02836112548
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh32
+<T> 28.47210677 11.82211693 6.424784942
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh33
+<T> 28.47210677 11.82211693 12.82120876
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh34
+<T> 28.47210677 11.82211693 19.21763258
+<R> 0 270 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh35
+<T> 25.27389486 11.82211788 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh36
+<T> 18.87747104 11.82211884 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh37
+<T> 12.48104723 11.82211979 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh38
+<T> 6.084623411 11.82212074 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh39
+<T> -0.3118004054 11.8221217 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh40
+<T> -6.708224222 11.82212265 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh41
+<T> -13.10464804 11.82212361 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> muro_1_Mesh42
+<T> -19.50107186 11.82212456 22.41584448
+<R> 0 180 0
+<TEX_C> spnza_bricks_a_diff
+<TEX_S> spnza_bricks_a_spec
+<TEX_B> spnza_bricks_a_diff_NORM
+<TEX_R> 
+<M> hebe_Mesh1
+<T> -12.771 3.289 -0.136
+<R> 0 270 0
+<TEX_C> AmbientOcclusion_1024
+<TEX_S> AmbientOcclusion_1024_SPEC
+<TEX_B> AmbientOcclusion_1024_NORM
+<TEX_R> 
